@@ -1,3 +1,6 @@
+//Created by: Arghya Shubhshiv and Rushil Rawat
+//Arghya Shubhshiv:  https://github.com/ArghyaShubhshiv/
+//Rushil Rawat:  https://github.com/RushilRawat/
 
 long distance,duration;
 #include<Servo.h>
